@@ -182,7 +182,7 @@ load
 clear
 troll
 echo WELCOME, Siapa Nick Kaka? #tulisan keluar
-read Nick #membaca yang ditulis
+read nick #membaca yang ditulis
 clear
 troll
 echo WELCOME $nick ":)"
